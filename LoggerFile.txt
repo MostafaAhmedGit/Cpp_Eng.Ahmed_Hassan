@@ -1,0 +1,16 @@
+| 17:40:13 |AppId1 | 1 | lWarn | hello From Text File 
+| 17:40:13 |AppId1 | 2 | lDebug | hello From new Log Level
+| 17:40:13 |AppId2 | 1 | lWarn | hello From Text File 
+| 17:40:13 |AppId2 | 2 | lError | hello From new Log Level
+| 17:43:19 |AppId1 | 1 | lWarn | hello From Text File 
+| 17:43:19 |AppId1 | 2 | lDebug | hello From new Log Level
+| 17:43:19 |AppId2 | 1 | lWarn | hello From Text File 
+| 17:43:19 |AppId2 | 2 | lError | hello From new Log Level
+| 17:45:11 |AppId1 | 1 | lError | hello From Text File 
+| 17:45:11 |AppId1 | 2 | lDebug | hello From new Log Level
+| 17:45:11 |AppId2 | 1 | lError | hello From Text File 
+| 17:45:11 |AppId2 | 2 | lError | hello From new Log Level
+| 20:27:27 |AppId1 | 0 | lError | hello From Text File 
+| 20:27:27 |AppId1 | 0 | lDebug | hello From new Log Level
+| 20:27:27 |AppId2 | 0 | lError | hello From Text File 
+| 20:27:27 |AppId2 | 0 | lError | hello From new Log Level
